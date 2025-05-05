@@ -1,15 +1,18 @@
-# 🧮 Calculadora com Tkinter
+# 🧮 Calculadora com Python + Tkinter
 
-Uma calculadora moderna feita com Python e Tkinter, com suporte a:
-- Modo escuro
-- Teclado físico
-- Histórico de cálculos
-- Interface responsiva
+Uma calculadora simples com interface gráfica feita em Python usando Tkinter.  
+Ela inclui:
 
-## 💻 Como rodar
+✅ Suporte ao teclado  
+✅ Histórico de cálculos  
+✅ Tema claro/escuro  
 
-1. Certifique-se de ter o Python instalado (versão 3.7+).
-2. Execute o arquivo:
+---
+
+## 💻 Como executar
+
+### 1. Clone o repositório
 
 ```bash
-python calculadora.py
+git clone https://github.com/seu-usuario/calculadora-python-tkinter.git
+cd calculadora-python-tkinter
