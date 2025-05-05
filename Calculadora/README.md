@@ -8,11 +8,3 @@ Ela inclui:
 ✅ Tema claro/escuro  
 
 ---
-
-## 💻 Como executar
-
-### 1. Clone o repositório
-
-```bash
-git clone https://github.com/seu-usuario/calculadora-python-tkinter.git
-cd calculadora-python-tkinter
