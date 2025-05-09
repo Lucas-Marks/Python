@@ -7,7 +7,7 @@ historico = []
 #Função que é chamada quando um botão é clicado com o cursor
 def clique(valor):
     global n_numero
-    if n_numero or entrafa.get() == "Erro": #Limpa o resultado ou o "Erro que estiver no display
+    if n_numero or entrada.get() == "Erro": #Limpa o resultado ou o "Erro que estiver no display
         entrada.delete(0, tk.END)
         n_numero = False
     entrada.insert(tk.END, valor) #Insere o valor clicado    
